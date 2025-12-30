@@ -63,7 +63,7 @@ Besides achieving better performance, prompt chaining helps to boost the transpa
 
 #### **Results of each technique with llama-3.1-8b-instant**
 
-- **zero_shot_prompting**
+- **1.zero_shot_prompting**
 ```bash
 ZERO-SHOT PROMPTING DEMONSTRATION
 ======================================================================
@@ -253,7 +253,9 @@ Category: Category: Sports.
 Text: New study shows that regular exercise can reduce the risk of heart disease by 30%.
 Category: The category for the given article is: Health.
 ```
-- **few_shot_prompting**
+
+
+- **2.few_shot_prompting**
 ```bash 
 ======================================================================
 FEW-SHOT PROMPTING DEMONSTRATION
@@ -425,7 +427,8 @@ The sun beat down on them, relentless in its intensity, yet Emily felt a chill r
 ```
 
 
-- **Chain_of_thought_prompting**
+
+- **3.Chain_of_thought_prompting**
 ```bash 
 ======================================================================
 CHAIN OF THOUGHT PROMPTING DEMONSTRATION
@@ -1121,7 +1124,9 @@ Reasoning through ethical considerations...
 Based on the analysis, I propose **Option 2: Report the issue to management and suggest alternative solutions**. This option respects the duties to do good and avoid harm, promotes accurate information and reduces anxiety, and demonstrates virtues such as honesty, responsibility, and respect for users. It also acknowledges the company's interest in securing funding, but prioritizes the well-being of users and the community. By reporting the issue and suggesting alternative solutions, you can contribute to a positive change and maintain your integrity as a software engineer.
 ```
 
-- **prompt_chaining**
+
+
+- **4.prompt_chaining**
 ```bash
 ======================================================================
 PROMPT CHAINING DEMONSTRATION
