@@ -1,3 +1,6 @@
+##### If notebook is not visible because some rendering issue then please click on following link 
+[Notebook_2](https://drive.google.com/file/d/1iWIqsxrWN3nBrjMwLOezDLtipmhffiI3/view?usp=sharing)
+
 ## **What is Fine-tuning?**
 
 **Fine-tuning** is taking a pre-trained model and **training at least one internal model parameter** (i.e. weights). In the context of LLMs, what this typically accomplishes is transforming a general-purpose base model (e.g. GPT-3) into a specialized model for a particular use case (e.g. ChatGPT)
